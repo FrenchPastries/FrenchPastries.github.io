@@ -1,3 +1,3 @@
 - [Home](/)
 - [Getting Started](getting-started.md)
-- [Build A Complete Application](build-a-complete-application.md)
+- [Construire une application](build-a-complete-application.md)
